@@ -25,15 +25,15 @@
 
 ### Prerequisites
 
-> **NONE**
+> **None**
 
 ### Setup
 
-> **NONE**
+> **None**
 
 ### Install
 
-> ***git clone https://***
+> ***git clone https://github.com/ONJoseph/Hello-Microverse.git***
 
 ### Usage
 
