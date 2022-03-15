@@ -1,7 +1,6 @@
 ![Image](https://img.shields.io/badge/Microverse-blueviolet)
 # Hello-Microverse
 > This project is a simple HTML & CSS project to master GitHub work flow and documentation.
-
 <br/>
 
 ## Built With
@@ -13,7 +12,6 @@
     - None
 - Technologies used
     - None
-
 <br/>
 
 ## Getting Started
@@ -56,8 +54,8 @@
 &#x1f464; **Ant&oacute;nio Jos&eacute; Gomes**
 
 - GitHub: [@]()
-- Twitter: [@]()
-- LinkedIn: [LinkedIn]()
+- Twitter: [@ONJCodes](https://twitter.com/ONJCodes)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/o-n-joseph-ba8425147/)
 
 <br/>
 
