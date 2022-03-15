@@ -23,14 +23,6 @@
 
 <br/>
 
-### Prerequisites
-
-> **None**
-
-### Setup
-
-> **None**
-
 ### Install
 
 > ***git clone https://github.com/ONJoseph/Hello-Microverse.git***
