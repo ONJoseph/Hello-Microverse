@@ -51,9 +51,9 @@
 
 ## Authors
 
-&#x1f464; **Ant&oacute;nio Jos&eacute; Gomes**
+&#x1f464; **Joseph Ogbole**
 
-- GitHub: [@]()
+- GitHub: [@ONJoseph](https://github.com/ONJoseph)
 - Twitter: [@ONJCodes](https://twitter.com/ONJCodes)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/o-n-joseph-ba8425147/)
 
