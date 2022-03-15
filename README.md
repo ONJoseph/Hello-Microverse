@@ -83,4 +83,4 @@ Feel free to check the issues page<!--[issues page](../../issues/)-->.
 
 ## &#x1F4DD; License
 
-This project is [MIT] licensed.
+This project is [MIT](./MIT.md) licensed.
