@@ -39,14 +39,6 @@
 
 > **Just access the index.html file through the browser or access the webserver where it has been deployed through the browser**
 
-### Run tests
-
-> **Not applicable**
-
-### Deployment
-
-> **Not applicable**
-
 <br/>
 
 ## Authors
